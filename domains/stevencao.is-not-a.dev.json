@@ -1,0 +1,13 @@
+{
+  "description": "Gemini 2.5 Pro reverse proxy via Cloudflare Workers",
+  "domain": "is-not-a.dev",
+  "subdomain": "stevencao",
+  "owner": {
+    "repo": "https://github.com/caoshuhuan/register",
+    "email": "guarenvszhen@gmail.com"
+  },
+  "record": {
+    "CNAME": "stevencao.workers.dev."
+  },
+  "proxied": true
+}
